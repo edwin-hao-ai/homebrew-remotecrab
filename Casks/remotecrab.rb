@@ -1,6 +1,6 @@
 cask "remotecrab" do
-  version "1.4.4"
-  sha256 "5cfa368842a63fd956e7ece44dcfcc566429afe42ed82641fb211a53b3b1bea7"
+  version "1.4.5"
+  sha256 "951d0e1ffd7ae1624150eb7fa61c158449271b06947f39089e1fc95c024ee177"
 
   url "https://vgoapp.com/downloads/RemoteCrab-#{version}.dmg"
   name "RemoteCrab"
